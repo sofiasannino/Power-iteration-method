@@ -5,5 +5,5 @@ Implementation of Power Iteration method and Inverse Power Iteration method (wit
 # Programming language
 C++
 
-# Tools needed
+# Tools 
 CLion 2024.2.2 (suggested)
