@@ -1,9 +1,12 @@
-# Power-iteration-method
-Assignment 1, Algorithms and Parallel Computing course, Politecnico di Milano.
-Implementation of Power Iteration method and Inverse Power Iteration method (with and without shift) algorithms.
+# Power Iteration Method
 
-# Programming language
-C++
+Repository for **Assignment 1** of the *Algorithms and Parallel Computing* course at Politecnico di Milano.  
+This project implements the **Power Iteration** and **Inverse Power Iteration** algorithms, both with and without spectral shift, for approximating dominant and shifted eigenpairs of a matrix.
 
-# Tools 
-CLion 2024.2.2 (suggested)
+## Programming Language
+
+- **C++**
+
+## Tools
+
+- **CLion 2024.2.2** (recommended IDE)
